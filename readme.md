@@ -1,4 +1,6 @@
-# usulix/laravel-netsuite
+# west-academic/laravel-netsuite
+
+Forked from usulix/laravel-netsuite to update allowed Laravel version to 7. This package is not maintained.
 
 [ryanwinchester/netsuite-php](https://github.com/ryanwinchester/netsuite-php) is a php package which
 wraps the [NetSuite PHP Toolkit](http://www.netsuite.com/portal/developers/resources/suitetalk-sample-applications.shtml)
