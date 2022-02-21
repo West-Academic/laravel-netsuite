@@ -1,5 +1,5 @@
 {
-  "name": "west-academic/laravel-netsuite",
+  "name": "usulix/laravel-netsuite",
   "description": "A laravel7 wrapper around ryanwinchester/netsuite-php",
   "require": {
         "laravel/framework": "7.x",
